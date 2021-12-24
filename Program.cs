@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-public class arg{
+public class Simple2DReplace{
     public static void Main(string[] args){
         if(args.Length < 2) return;
         int rad = int.Parse(args[0]);
